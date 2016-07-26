@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/louis/Dokumente/UNI/BA/RooNMATe/RooNMATe - Code-Optimierung/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/louis/Dokumente/UNI/BA/RooNMATe/RooNMATe - Code-Optimierung/app/build/intermediates/pre-dexed/debug/classes-5c64f68b70e607dcb876cedddc1e2f4b37bf0e36.jar" />
+    </item>
+    <item
+        jar="/home/louis/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/louis/Dokumente/UNI/BA/RooNMATe/RooNMATe - wie abgegeben/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-e0f0fcb99a8623bf23bd0013ee75588dd79dd3b5.jar" />
+    </item>
+    <item
+        jar="/home/louis/Dokumente/UNI/BA/RooNMATe/RooNMATe - Code-Optimierung/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/louis/Dokumente/UNI/BA/RooNMATe/RooNMATe - Code-Optimierung/app/build/intermediates/pre-dexed/debug/classes-4dc18581dae18cfecee6552c47ff19ade7e2f3be.jar" />
+    </item>
+    <item
+        jar="/home/louis/Dokumente/UNI/BA/RooNMATe/RooNMATe - wie abgegeben/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/louis/Dokumente/UNI/BA/RooNMATe/RooNMATe - wie abgegeben/app/build/intermediates/pre-dexed/debug/classes-759698e78efdaa22232f9ae8f486a613e68abc2c.jar" />
+    </item>
+    <item
+        jar="/home/louis/Dokumente/UNI/BA/RooNMATe/RooNMATe - Code-Optimierung/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/louis/Dokumente/UNI/BA/RooNMATe/RooNMATe - Code-Optimierung/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-5384068a61a721054cb39f09fa966b9e7c055abe.jar" />
+    </item>
+    <item
+        jar="/home/louis/Dokumente/UNI/BA/RooNMATe/RooNMATe - wie abgegeben/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/louis/Dokumente/UNI/BA/RooNMATe/RooNMATe - wie abgegeben/app/build/intermediates/pre-dexed/debug/classes-28dca586abf2aea3b15b74f64c2038cfccfa9724.jar" />
+    </item>
+    <item
+        jar="/home/louis/Dokumente/UNI/BA/RooNMATe/RooNMATe - wie abgegeben/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/louis/Dokumente/UNI/BA/RooNMATe/RooNMATe - wie abgegeben/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-799a8d6d5e649c5f91ec1e5da90c94ec664f1ebb.jar" />
+    </item>
+
+</items>
